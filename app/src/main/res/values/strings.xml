@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin-dicoding-football</string>
+    <string name="loading">Loading....</string>
+    <string name="detail">Detail</string>
+    <string name="remove_fav">Removed to favorite</string>
+    <string name="add_fav">Added to favorite</string>
+</resources>
